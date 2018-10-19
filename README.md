@@ -1,3 +1,4 @@
+[![pipeline status](https://gitlab.com/theCornerShop/sidecar-deploy-tgz/badges/next-release/pipeline.svg)](https://gitlab.com/theCornerShop/sidecar-deploy-tgz/commits/next-release)
 ## sidecar-deploy-tgz
 
 A docker sidecar container that can be used to deploy a set of files onto a docker volume or a host filesystem.
